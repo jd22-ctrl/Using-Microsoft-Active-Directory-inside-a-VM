@@ -1,2 +1,7 @@
+# Create Users
 
-This is how i was able to create users
+## What I Did
+
+- Created user accounts in Active Directory.
+
+
