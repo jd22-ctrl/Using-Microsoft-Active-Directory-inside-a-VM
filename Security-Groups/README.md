@@ -13,4 +13,4 @@ Create security groups to simplify permission management.
 
 ## Evidence
 
-The screenshot demonstrates the completed security groups.
+The screenshot demonstrates the completed security groups by adding the users to the right security groups.
