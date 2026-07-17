@@ -68,3 +68,11 @@ Now if the user knows their password then I would simply click on *Unlock Accoun
 If the user forgots the password fully then I would click on the *Reset Password* option and give them a temp password and unlock their account
 
 ![Resetting user password](resetting-password.png)
+
+Now if the problem still presists and its locking them out after they changed their passwords then I would open Event Viewer to look for the computer that may be causing the issue due to the fact that some computers take a while to refresh the cashe and theirfore is holding the old password still.
+
+![Resetting user password](if-user-access-account-from-different-computer.png)
+
+After I open that program, I would click on the folder that says *Window's Logs* to show me the log information. Then I would click on the *Security* subfolder and that would show me the security section of the logins i.e passwords
+
+![Resetting user password](finding-the-security-issue.png)
