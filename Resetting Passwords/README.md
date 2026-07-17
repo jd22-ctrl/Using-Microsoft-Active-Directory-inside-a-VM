@@ -61,4 +61,4 @@ Verified the correct user account was located before performing administrative a
 
 If they remember their password and just need to get their account unlocked then i would click *Unlock Account* here.
 
-![Searching for user account](resetting passwords 2 if they remember their password.png)
+![Searching for user account](resetting-passwords-2-if-they-remeber-their-password.png)
