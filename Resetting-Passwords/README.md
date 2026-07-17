@@ -55,3 +55,5 @@ Entered the user's name to search for the account within Active Directory.
 Verified the correct user account was located before performing administrative actions.
 
 ![Resetting user password](resetting-passwords-1.png)
+
+Once i confirmed the users identity, i right-click on their name at the bottom. Then i click reset password
