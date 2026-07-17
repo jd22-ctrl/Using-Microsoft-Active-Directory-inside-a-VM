@@ -63,4 +63,4 @@ Once i confirmed the users identity, i right-click on their name at the bottom. 
 
 Now if the user knows their password then i would simply click on *Unlock Account*
 
-![Resetting user password](If-the-user-remember-their-password.png)
+![Resetting user password](If-the-user-remembers-their-password.png)
