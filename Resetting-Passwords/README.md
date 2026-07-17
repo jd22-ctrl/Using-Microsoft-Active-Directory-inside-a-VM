@@ -67,4 +67,4 @@ Now if the user knows their password then I would simply click on *Unlock Accoun
 
 If the user forgots the password fully then I would click on the *Reset Password* option and give them a temp password and unlock their account
 
-![Resetting user password](
+![Resetting user password](resetting-password.png)
