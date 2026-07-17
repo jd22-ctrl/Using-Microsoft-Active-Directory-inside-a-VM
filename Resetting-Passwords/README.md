@@ -69,10 +69,14 @@ If the user forgots the password fully then I would click on the *Reset Password
 
 ![Resetting user password](resetting-password.png)
 
-Now if the problem still presists and its locking them out after they changed their passwords then I would open Event Viewer to look for the computer that may be causing the issue due to the fact that some computers take a while to refresh the cashe and theirfore is holding the old password still.
+Now if the problem still presists and its locking them out after they changed their passwords then I would open Event Viewer to look for the computer that may be causing the issue due to the fact that some computers take a while to refresh the cache and therefore is holding the old password still.
 
 ![Resetting user password](if-user-access-account-from-different-computer.png)
 
 After I open that program, I would click on the folder that says *Window's Logs* to show me the log information. Then I would click on the *Security* subfolder and that would show me the security section of the logins i.e passwords
 
 ![Resetting user password](finding-the-security-issue.png)
+
+
+
+<img width="1024" height="768" alt="resetting passwords 5 if the person resetting their passwords before and is locking their accounts trying to access it from different computers" src="https://github.com/user-attachments/assets/3f1b9d18-8630-4165-be37-0133fb4c0647" />
