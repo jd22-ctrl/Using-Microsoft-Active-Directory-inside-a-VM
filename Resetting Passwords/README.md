@@ -9,7 +9,7 @@ This project demonstrates the process of resetting a user's password and trouble
 
 **Operating System:**
 - Windows Server 2022 (Domain Controller)
-- Windows 11 Client
+- Windows 7 Client
 
 **Tools Used:**
 - Active Directory Users and Computers (ADUC)
