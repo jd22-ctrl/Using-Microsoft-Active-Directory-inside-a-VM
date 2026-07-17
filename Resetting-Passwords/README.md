@@ -77,6 +77,6 @@ After I open that program, I would click on the folder that says *Window's Logs*
 
 ![Resetting user password](finding-the-security-issue.png)
 
-
+Now I would click on the funnel option to the right and under *Event ID* I would type 4740 which is the set of numbers that would tell me if theirs any lockouts of any account
 
 <img width="1024" height="768" alt="resetting passwords 5 if the person resetting their passwords before and is locking their accounts trying to access it from different computers" src="https://github.com/user-attachments/assets/3f1b9d18-8630-4165-be37-0133fb4c0647" />
