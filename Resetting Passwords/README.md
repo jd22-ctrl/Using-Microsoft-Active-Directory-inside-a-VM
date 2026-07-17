@@ -42,3 +42,12 @@ This project demonstrates the process of resetting a user's password and trouble
 
 **Goal:**
 Reset the user's password and restore account access.
+
+**Process**
+
+Opened Server Manager and navigated to Tools.
+Selected Active Directory Users and Computers to access the domain directory.
+Right-clicked on the domain/forest and selected Find.
+Entered the user's name to search for the account within Active Directory.
+Verified the correct user account was located before performing administrative actions.
+![Searching for user account](resetting-passwords-1.png)
