@@ -18,7 +18,7 @@ Active Directory Users and Computers (ADUC)
 
 Windows Server Manager
 
-PowerShell
+
 
 ### Skills Practiced:
 
