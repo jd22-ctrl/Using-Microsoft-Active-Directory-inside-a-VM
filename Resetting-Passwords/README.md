@@ -64,3 +64,7 @@ Once I've confirmed the users identity, I right-click on their name at the botto
 Now if the user knows their password then I would simply click on *Unlock Account*
 
 ![Resetting user password](If-the-user-remembers-their-password.png)
+
+If the user forgots the password fully then I would click on the *Reset Password* option and give them a temp password and unlock their account
+
+![Resetting user password](
