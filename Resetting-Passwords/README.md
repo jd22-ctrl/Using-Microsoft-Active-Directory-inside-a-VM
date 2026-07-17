@@ -56,11 +56,11 @@ Verified the correct user account was located before performing administrative a
 
 ![Resetting user password](resetting-passwords-1.png)
 
-Once i confirmed the users identity, i right-click on their name at the bottom. Then i click reset password
+Once I've confirmed the users identity, I right-click on their name at the bottom. Then I would click *Reset Password*
 
 ![Resetitng user password](reset-password-right-click.png)
 
 
-Now if the user knows their password then i would simply click on *Unlock Account*
+Now if the user knows their password then I would simply click on *Unlock Account*
 
 ![Resetting user password](If-the-user-remembers-their-password.png)
