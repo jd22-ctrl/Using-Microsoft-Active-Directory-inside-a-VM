@@ -53,3 +53,5 @@ Right-clicked on the domain/forest and selected Find.
 Entered the user's name to search for the account within Active Directory.
 
 Verified the correct user account was located before performing administrative actions.
+
+Resetting-Passwords/(resetting passwords 1.png)
