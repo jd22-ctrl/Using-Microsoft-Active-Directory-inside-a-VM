@@ -43,7 +43,7 @@ This project demonstrates the process of resetting a user's password and trouble
 **Goal:**
 Reset the user's password and restore account access.
 
-**Process**
+**Process:**
 
 Opened Server Manager and navigated to Tools.
 
@@ -56,3 +56,9 @@ Entered the user's name to search for the account within Active Directory.
 Verified the correct user account was located before performing administrative actions.
 
 ![Searching for user account](resetting-passwords-1.png)
+
+
+
+If they remember their password and just need to get their account unlocked then i would click *Unlock Account* here.
+
+![Searching for user account](resetting passwords 2 if they remember their password.png)
