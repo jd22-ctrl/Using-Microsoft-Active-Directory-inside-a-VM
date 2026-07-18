@@ -23,6 +23,8 @@ This project demonstrates fundamental Active Directory administration tasks perf
 | 05-Group-Policy | Creating Group Policy Objects |
 | 06-Link-GPO | Linking GPOs to Organizational Units |
 | 07-Move-Computer-to-OU | Moving computer accounts into the correct OU |
+| 08-Resetting-Passwords | Helping users log into their accounts |
+| 09-Disabled-Accounts   | Helping users recover disabled accounts
 
 ## Environment
 
