@@ -32,5 +32,19 @@ Now the Group Scope can be set as requested.
 
 Now you can double click the `Group` you just made to pull up this menu.
 
+
 Now click on `Members`, this is where you can add the members you want in said group.
 ![Selecting members for the group](making-groups-3.png)
+
+
+
+Click `Add`.
+![Adding members](making-groups-4.png)
+
+Now in the box below, type the users **First** and **Last** name with the correct pronunciation.
+Then click `Check Names` to find the user within the domain.
+![Adding members](making-groups-5.png)
+
+
+After the correct name is shown, click on `Ok`
+![Finishing the member act](making-groups-6.png)
