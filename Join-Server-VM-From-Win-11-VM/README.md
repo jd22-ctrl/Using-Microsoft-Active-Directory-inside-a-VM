@@ -97,6 +97,6 @@ Now click `Change` You can also change the computers name from here as well.
 
 
 
-Now in the box, put the domain's name and click `Okay`.
+Now in the box, put the domain's name and click `Ok`.
 ![putting the domain](type-domain.png)
 
