@@ -12,6 +12,4 @@ Create new user accounts within Active Directory.
 - Assigned usernames and passwords.
 - Verified successful account creation.
 
-## Evidence
-
-The screenshot in this folder shows the completed user accounts inside Active Directory.
+## Process:
