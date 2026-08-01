@@ -29,3 +29,6 @@ Now the Group Scope can be set as requested.
 `Universal`:Combines users/groups across different domains.
 ![Creating User Groups](security-groups-2.png)
 
+
+Now you can double click the `Group` you just made to pull up this menu.
+![Selecting members for the group](making-groups-3.png)
