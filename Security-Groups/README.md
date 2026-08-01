@@ -1,8 +1,8 @@
-# Create Security Groups
+# Creating Groups
 
 ## Objective
 
-Create security groups to simplify permission management.
+Create groups to simplify permission management.
 
 ## Actions Performed
 
