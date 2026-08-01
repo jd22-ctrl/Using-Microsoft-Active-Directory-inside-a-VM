@@ -14,4 +14,5 @@ Create new user accounts within Active Directory.
 
 ## Process:
 
-Navag
+Opened the Server Manager and navigated to *Active Directory and Tools*
+![Active Directory and Tools](create-users-1.png)
