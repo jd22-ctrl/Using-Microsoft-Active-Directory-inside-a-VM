@@ -31,4 +31,6 @@ Now the Group Scope can be set as requested.
 
 
 Now you can double click the `Group` you just made to pull up this menu.
+
+Now click on `Members`, this is where you can add the members you want in said group.
 ![Selecting members for the group](making-groups-3.png)
