@@ -14,14 +14,14 @@ Create new user accounts within Active Directory.
 
 ## Process:
 
-Opened the Server Manager and navigated to *Active Directory and Tools*
+Opened the Server Manager and navigated to **Active Directory and Tools**
 ![Active Directory and Tools](create-users-1.png)
 
 
 Selected the correct domain and looked for the *Organization Unit* I wanted the new user in.
-After you select the new users correct *Organization Unit*, you right-click the Folder and select *User*. 
+After you select the new users correct *Organization Unit*, you right-click the Folder and select **User**. 
 
-Now you are able to add the First and Last name for the users and their respected username
+Now you are able to add the **First** and **Last name** for the users and their respected **Username**
 
 
 
