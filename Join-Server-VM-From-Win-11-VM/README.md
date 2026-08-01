@@ -58,7 +58,7 @@ Now after you open the program,click on `Network and Internet`.
 
 
 Click on `Network & Sharing Center`.
-![Network and sharing](network-and-sharing.png)
+![Network and sharing](network-and sharing.png)
 
 
 Click on `Ethernet`.
