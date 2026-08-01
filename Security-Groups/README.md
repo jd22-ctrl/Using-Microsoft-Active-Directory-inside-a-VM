@@ -48,3 +48,6 @@ Then click `Check Names` to find the user within the domain.
 
 After the correct name is shown, click on `Ok`
 ![Finishing the member act](making-groups-6.png)
+
+A box will show showing the users name, if its correct then click `Apply`
+![Confirming the addiction of the user](making-groups-7.png)
