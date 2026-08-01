@@ -27,7 +27,7 @@ Now the Group Scope can be set as requested.
 `Global`:Gives the users within this group a name to organize them within that domain.We well be using Global for this example.
 
 `Universal`:Combines users/groups across different domains.
-![Creating User Groups](security-groups-2.png)
+![Creating User Groups](group-scopes-2.png)
 
 
 Now you can double click the `Group` you just made to pull up this menu.
