@@ -29,5 +29,5 @@ Now you are able to add the **First** and **Last name** for the users and their 
 ![Users First and Last name](create-users-3.png)
 
 
-After the names for the user is done,click next and you are able to put a password for the employee. *A good rule of thumb is to leave the box "User must change password on next login"*.
+After the names for the **user** is done, click next and you are able to put a password for the employee. *A good rule of thumb is to leave the box "User must change password on next login"*.
 ![Setting passwords for Employees](create-users-4.png)
