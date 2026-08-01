@@ -16,7 +16,7 @@ Create security groups to simplify permission management.
 Go into the **Organizational Unit** you want the certain security permission assigned to. For me it was the IT Department.
 In the empty spot, right click and select `New`, then `Group`
 
-![Creating Security Permissions](security-groups-1.png)
+![Creating Security Permissions](creating-groups-1.png)
 
 Now you would put the correct name for the group ie: Managers, Interns, HelpDesk.  
 
