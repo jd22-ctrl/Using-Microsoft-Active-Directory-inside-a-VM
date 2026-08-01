@@ -50,7 +50,7 @@ The Windows 11 workstation was configured to communicate with the Domain Control
 
 First after you installed the iso for the Windows 11 Enterprise,click the windows button and type *Control Panel*.
 
-![Control Panel](control.panel.png)
+![Control Panel](control-panel.png)
 
 
 Now after you open the program,click on `Network and Internet`.
