@@ -20,13 +20,17 @@ The goal of this task was to:
 
 #Process:
 
-Go to the domain and look for `Computer` OU
-We need to find the computer we just joined from our other VM
+Go to the domain and look for `Computer` OU.
+
+We need to find the computer we just joined from our other VM.
+
 ![Looking for computer](looking-for-computer.png)
 
 
-Found the **PC**, right-clicked on the computer and left-clicked `Move`
+Found the **PC**, right-clicked on the computer and left-clicked `Move`.
+
 ![Moving the computer](moving-computer.png)
 
-Now you are able to move the computer to the **Organizational Unit**, mines will be the folder called `HR-Computers`
+Now you are able to move the computer to the **Organizational Unit**, mines will be the folder called `HR-Computers`.
+
 ![Found the correct OU](selecting-the-correct-OU.png)
