@@ -44,3 +44,59 @@ The goal of this project was to:
 The Windows 11 workstation was configured to communicate with the Domain Controller using a Host-Only network in VirtualBox.
 
 
+
+
+# Process: #
+
+First after you installed the iso for the Windows 11 Enterprise,click the windows button and type *Control Panel*.
+
+![Control Panel](control.panel.png)
+
+
+Now after you open the program,click on `Network and Internet`.
+![Network](network.png)
+
+
+Click on `Network & Sharing Center`.
+![Network and sharing](network-and-sharing.png)
+
+
+Click on `Ethernet`.
+![Ethernet](ethernet.png)
+
+A box will appear, click on `Ethernet Properties`.
+![Ethernet](ethernet-properties.png)
+
+Now another box shows, click on the `Internet Protocol Version 4 (TCP/IPv4)`.
+![Ethernet properties](ethernet-properties-ipv4.png)
+
+Now click *Use the following IP address*, for me this IP Address was from my Server VM IP so i can have a connection to the server.
+
+So I would put the servers VM IP as well as the DNS for the server.
+
+Click `Done`.
+
+![IP from the server vm](ethernet-properties-ipv4-done.png)
+
+
+
+
+Now click the Windows logo and Type `About My PC`.
+![About the PC](about-your-pc.png)
+
+
+
+
+Stroll down and click `Domain or workgroup`
+![Joining domain](joining-domain.png)
+
+
+
+Now click `Change` You can also change the computers name from here as well.
+![Domain joining](domain-joining.png)
+
+
+
+Now in the box, put the domain's name and click `Okay`.
+![putting the domain](type-domain.png)
+
