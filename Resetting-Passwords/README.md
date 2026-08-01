@@ -43,11 +43,11 @@ Goal: Reset the user's password and restore account access.
 
 # Process:
 
-Opened Server Manager and navigated to Tools.
+Opened `Server Manager` and navigated to `Tools`.
 
-Selected Active Directory Users and Computers to access the domain directory.
+Selected `Active Directory Users and Computers` to access the domain directory.
 
-Right-clicked on the domain/forest and selected Find.
+Right-clicked on the domain/forest and selected `Find`.
 
 Entered the user's name to search for the account within Active Directory.
 
@@ -55,24 +55,24 @@ Verified the correct user account was located before performing administrative a
 
 ![Resetting user password](resetting-passwords-1.png)
 
-Once I've confirmed the users identity, I right-click on their name at the bottom. Then I would click *Reset Password*
+Once I've confirmed the users identity, I right-click on their name at the bottom. Then I would click `Reset Password`
 
 ![Resetitng user password](reset-password-right-click.png)
 
 
-Now if the user knows their password then I would simply click on *Unlock Account*
+Now if the user knows their password then I would simply click on `Unlock Account`
 
 ![Resetting user password](If-the-user-remembers-their-password.png)
 
-If the user forgots the password fully then I would click on the *Reset Password* option and give them a temp password and unlock their account
+If the user forgots the password fully then I would click on the `Reset Password` option and give them a temp password and unlock their account
 
 ![Resetting user password](resetting-password.png)
 
-Now if the problem still presists and its locking them out after they changed their passwords then I would open Event Viewer to look for the computer that may be causing the issue due to the fact that some computers take a while to refresh the cache and therefore is holding the old password still.
+Now if the problem still presists and its locking them out after they changed their passwords then I would open `Event Viewer` to look for the computer that may be causing the issue due to the fact that some computers take a while to refresh the cache and therefore is holding the old password still.
 
 ![Resetting user password](if-user-access-account-from-different-computer.png)
 
-After I open that program, I would click on the folder that says *Window's Logs* to show me the log information. Then I would click on the *Security* subfolder and that would show me the security section of the logins i.e passwords
+After I open that program, I would click on the folder that says `Window's Logs` to show me the log information. Then I would click on the *Security* subfolder and that would show me the security section of the logins i.e passwords
 
 ![Resetting user password](finding-the-security-issue.png)
 
