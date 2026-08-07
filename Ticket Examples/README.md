@@ -16,4 +16,11 @@ Found the user with the issue, now i double- click on the account.
 <img width="1024" height="768" alt="locked-out-account-5" src="https://github.com/user-attachments/assets/9f1fac66-5233-4b12-86e5-99360570cdd4" />
 
 
-Now the user should be able to login.
+### Now the user should be able to login.
+
+If the user doesn't remember their old password before I enable their account then instead of double clicking on their account, I would right click on the account and click on ` Reset Password ` and give them a temp password to change on next login.
+<img width="1024" height="768" alt="locked-out-account-6" src="https://github.com/user-attachments/assets/8eb8b040-9ada-41cf-ba85-8ec673607a64" />
+
+
+I can unlock their account from here as well by clicking on the box that says `Unlock Account`.
+<img width="1024" height="768" alt="locked-out-account-7" src="https://github.com/user-attachments/assets/96c96ce6-1071-4068-9f71-4ba7f63dd78b" />
