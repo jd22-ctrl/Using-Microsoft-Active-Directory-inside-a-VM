@@ -87,7 +87,7 @@ Now click the Windows logo and Type `About My PC`.
 
 
 
-Stroll down and click `Domain or workgroup`
+Scroll down and click `Domain or workgroup`
 ![Joining domain](joining-domain.png)
 
 
